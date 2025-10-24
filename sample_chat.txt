@@ -1,0 +1,6 @@
+[24/10/25, 08:15:30 AM] Alice: Hello everyone!
+[24/10/25, 08:16:10 AM] Bob: Hi Alice
+[24/10/25, 09:00:00 AM] System: Alice added Charlie
+[24/10/25, 09:05:12 AM] Charlie: Good morning :) 
+[24/10/25, 09:06:00 AM] Alice: Check this out <Media omitted>
+[24/10/25, 09:10:45 AM] Bob: https://example.com/test
