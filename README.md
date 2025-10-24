@@ -1,6 +1,6 @@
 # WhatsApp Chat Analyzer
 
-A small Streamlit app to analyze exported WhatsApp chats. It parses an exported chat file, preprocesses messages, and visualizes chat statistics such as message counts, timelines, activity maps, wordclouds, most common words and emojis.
+WhatsApp Chat Analyzer is a local data-processing and analytics tool that parses exported WhatsApp chat text and provides interactive visualizations and summary statistics via a Streamlit app. It converts chat text into a structured dataset and offers timelines, activity heatmaps, wordclouds (with Hinglish stopwords), emoji statistics, link/media detection, and per-user breakdowns.
 
 ## Features
 - Parse WhatsApp exported chat text using timestamps like `[dd/mm/yy, h:mm:ss AM/PM]`.
